@@ -9,31 +9,11 @@ p{
 }
 
 h1 {
-    text-align: right;
     color: green;
 }
 
 h2 {
-    width: 300px;
-    text-align: center;
     color: skyblue;
-}
-
-td {
-    width: 500px;
-}
-
-th {
-    text-align: left;
-}
-
-td {
-    text-align: center;
-}
-
-p {
-    width: 300px;
-    text-align: justify;
 }
 
 h3 {
