@@ -1,0 +1,17 @@
+.block1 {
+	font-size: 20px;
+}
+.block2 {
+	font-size: 30px;
+}
+.block3 {
+	font-size: 35px;
+	text-align: center;
+}
+
+.block1, .block2 {
+	line-height: 1.5;
+}
+.block1, .block2, .block3 {
+	font-family: Arial;
+}
