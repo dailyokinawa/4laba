@@ -1,5 +1,4 @@
 p {
-    color: orange;
     width: 500px;
     text-align: justify;
     font: 30px/25px Arial;
@@ -7,31 +6,21 @@ p {
 }
 
 h1 {
+    width: 500px;
     text-align: center;
-    color: green;
+    color: MediumBlue;
     font-family: Arial;
     font-size: 50px;
 }
 
 h2 {
-    color: skyblue;
+    width: 500px;
+    color: #32CD32;
     font-family: Arial;
     font-size: 40px;
-    font-style: italic;
-    text-decoration: underline;
-}
-
-h3 {
-    color: red;
-    font-family: Arial;
-}
-
-td {
     text-align: center;
-    font-family: Arial;
-    font-style: Bold;
 }
 
-th {
-    font-family: Arial;
+i {
+    color: #32CD32;
 }
