@@ -1,0 +1,6 @@
+#elem {
+    width: 200px;
+    height: 250px;
+    color: white;
+    background-color: steelblue; /* задаем оранжевый цвет фона */
+}

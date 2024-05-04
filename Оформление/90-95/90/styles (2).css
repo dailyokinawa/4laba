@@ -1,0 +1,8 @@
+#elem {
+    width: 350px;
+    height: 250px;
+    color: white;
+    background-color: lightgreen; /* задаем оранжевый цвет фона */
+    text-align: center;
+    font-size: 50px;
+}
